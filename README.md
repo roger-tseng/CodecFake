@@ -8,8 +8,8 @@
     <i>Interspeech 2024</i>
 </p>
 
-TL;DR: We show that better detection of deepfake speech
-can be achieved by training models on re-synthesized speech from codec-based systems, and release a dataset for this purpose.
+**TL;DR**: We show that better detection of deepfake speech from codec-based TTS systems can be achieved by training models on speech re-synthesized with neural audio codecs.
+We also release a dataset for this purpose.
 
 ## Dataset Download
 
