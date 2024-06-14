@@ -13,7 +13,7 @@ We also release a dataset for this purpose.
 
 ## Dataset Download
 
-TBA
+CodecFake is available on **[[Huggingface]](https://huggingface.co/datasets/rogertseng/CodecFake)**
 
 ## Dataset Creation Pipeline
 
