@@ -2,6 +2,7 @@
 
 <p align="center">  
     <a href="https://arxiv.org/abs/2406.07237">Paper</a>,
+    <a href="https://huggingface.co/datasets/rogertseng/CodecFake">Dataset</a>,
     <a href="https://codecfake.github.io/">Project Page</a>
 </p>
 <p align="center">  
@@ -22,4 +23,8 @@ TBA, see [dataset_creation](dataset_creation)
 ## Training/Evaluating Fake Speech Detectors 
 
 TBA, see [detection](detection)
+
+## Acknowledgement
+
+CodecFake is created based on the [VCTK](https://datashare.ed.ac.uk/handle/10283/3443) dataset, licensed under CC-BY-4.0.
 
