@@ -22,7 +22,7 @@ TBA, see [dataset_creation](dataset_creation)
 
 ## Training/Evaluating Fake Speech Detectors 
 
-TBA, see [detection](detection)
+See [detection/README.md](detection/README.md) for more.
 
 ## Acknowledgement
 
