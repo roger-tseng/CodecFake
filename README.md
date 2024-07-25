@@ -16,13 +16,13 @@ We also release a dataset for this purpose.
 
 CodecFake is available on **[[Huggingface]](https://huggingface.co/datasets/rogertseng/CodecFake)**
 
+## Training/Evaluating Fake Speech Detectors 
+
+See `README.md` under [detection](detection) for more.
+
 ## Dataset Creation Pipeline
 
 TBA, see [dataset_creation](dataset_creation)
-
-## Training/Evaluating Fake Speech Detectors 
-
-See [detection/README.md](detection/README.md) for more.
 
 ## Acknowledgement
 
