@@ -1,6 +1,7 @@
 [submodule "detection"]
 	path = detection
 	url = git@github.com:roger-tseng/CodecDetect.git
+	branch = main
 [submodule "dataset_creation"]
 	path = dataset_creation
 	url = git@github.com:roger-tseng/AudioDecBenchmark.git

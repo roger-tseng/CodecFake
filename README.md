@@ -10,19 +10,27 @@
 </p>
 
 **TL;DR**: We show that better detection of deepfake speech from codec-based TTS systems can be achieved by training models on speech re-synthesized with neural audio codecs.
-We also release a dataset for this purpose.
+We also release the CodecFake dataset for this purpose.
 
 ## Dataset Download
 
-CodecFake is available on **[[Huggingface]](https://huggingface.co/datasets/rogertseng/CodecFake)**
+We provide the CodecFake dataset in two forms:
+1. [**Huggingface Datasets**](https://huggingface.co/datasets/rogertseng/CodecFake)
 
-## Training/Evaluating Fake Speech Detectors 
+    ```python
+    from datasets import load_dataset
+    a = load_dataset("rogertseng/CodecFake")
+    ```
 
-See `README.md` under [detection](detection) for more.
+2. [**ZIP files**](https://huggingface.co/datasets/rogertseng/CodecFake_wavs/tree/main)
+
+## Train Fake Speech Detectors on CodecFake
+
+See instructions under [detection](https://github.com/roger-tseng/CodecDetect) for more.
 
 ## Dataset Creation Pipeline
 
-TBA, see [dataset_creation](dataset_creation)
+TBA, see [dataset_creation](https://github.com/roger-tseng/AudioDecBenchmark)
 
 ## Acknowledgement
 
